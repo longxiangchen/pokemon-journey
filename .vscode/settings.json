@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "collisionmap.h": "c",
+        "background.h": "c",
+        "lose.h": "c",
+        "collisionmap3.h": "c",
+        "maptwobg1.h": "c"
+    }
+}
