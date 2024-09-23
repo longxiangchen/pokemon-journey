@@ -2,7 +2,7 @@
 
 Welcome to my Pokemon Game!
 
-Not everything works!
+DEMO: https://tinyurl.com/pokemon-remake
 
 # Known bugs
 The only bug is something I don't know the cause of. I just walked away when I came back the screen started looking like the flickers when we first started using DMA for fill screen.
